@@ -1,0 +1,13 @@
+.content{
+    width: 500px;
+    margin: 0 auto;
+}
+
+.content img{
+    width: 100%;
+    height: auto;
+}
+
+.block{
+    text-align: center;
+}

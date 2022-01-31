@@ -1,0 +1,16 @@
+.container{
+    background-color: whitesmoke;
+  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.control{
+    margin: 5px;
+    padding: 5px 5px;
+}
+
+.control label{
+    padding-right: 5px;
+}

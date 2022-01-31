@@ -1,0 +1,61 @@
+.item{
+    width: 600px;
+    margin:15px auto;
+    list-style: none;
+    box-shadow: 0 0  5px  rgba(0,0,0,.4);
+  
+    padding: 10px;
+}
+
+.item img{
+    width: 100%;
+ 
+}
+
+ .content{
+    display: flex;
+   flex-direction: row;
+    justify-content: center;
+}
+
+.title{
+    color: #1abc9c;
+}
+.icon{
+ display: inline-flex;
+ justify-content: center;
+ align-items: center;
+ gap: 10px;
+}
+
+.icon svg {
+    width: 1.25rem;
+    height: 1.25rem;
+  }
+  
+
+  .address{
+      display: flex;
+      gap: 10px;
+      align-items: center;
+  }
+  .address svg{
+    width: 1.25rem;
+    height: 1.25rem;
+  }
+
+  .action{
+      display: flex;
+      flex-direction: row;
+      padding: 5px;
+  }
+
+  .action a{
+      display: block;
+  }
+
+  .action a span{
+      vertical-align: middle;
+  }
+
+

@@ -1,0 +1,37 @@
+.head{
+    background-color: #34495e;
+    color: white;
+   
+}
+
+.head .logo{
+    font-size: 25px;
+    display: inline-block;
+    padding: 10px 20px;
+    
+}
+
+.nav{
+    
+   position: relative;
+    
+}
+
+ .nav ul{
+    list-style: none;
+   
+   
+   
+}
+
+.nav li{
+    font-size: 22px;
+    text-align: right;
+}
+
+.nav a{
+    
+    position: absolute;
+    top: -57px;
+    right: 100px;
+}
